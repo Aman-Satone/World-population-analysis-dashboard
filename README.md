@@ -62,10 +62,10 @@ Understanding population trends helps countries plan urban development, allocate
 ### Main Dashboard Includes:
 - 🌍 Map of population by country
 - 📈 Funnel of world population growth
-- 📊 Bar charts by continent
+- 📊 Bar charts by density
 - 🧮 Cards for KPIs (Most populous country/continent)
 - 📌 Pie chart showing population distribution
-- 🔎 Drillthrough page with detailed country insights
+- 🔎 Drillthrough page with detailed continent insights
 
 ---
 
