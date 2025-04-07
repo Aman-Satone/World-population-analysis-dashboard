@@ -34,8 +34,8 @@ To analyze global population data over the last five decades and visualize trend
 Understanding population trends helps countries plan urban development, allocate resources, and predict social and economic challenges.
 
 ### Data Sources
-- United Nations & World Bank datasets
-- Country-level data including population, area, capital, and continent
+- Historical Population data for every Country/Territory in the world by different parameters like Area Size of the Country/Territory, Name of the Continent, Name of the Capital, Density, Population Growth Rate, Ranking based on Population, World Population Percentage, etc.
+- (https://www.kaggle.com/datasets/iamsouravbanerjee/world-population-dataset)
 
 ---
 
