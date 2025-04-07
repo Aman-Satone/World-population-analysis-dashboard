@@ -95,11 +95,14 @@ This Power BI dashboard delivers a powerful overview of global demographic trend
 
 ---
 
-Screenshots
+## Screenshots
+
 ![Dashboard](https://github.com/user-attachments/assets/b0b60f3f-9101-4f67-bec8-90830eb956a5)
 
+---
 
 ## 🚀 Getting Started
+
 To open the report:
 
 Download Power BI Desktop
@@ -108,6 +111,9 @@ Clone this repo or download the .pbix file
 
 Open Dashboard_Aman.pbix in Power BI Desktop
 
-🤝 Contributing
+---
+
+## 🤝 Contributing
+
 Feel free to fork the project and contribute by creating a pull request. Suggestions, issues, and improvements are always welcome.
 
